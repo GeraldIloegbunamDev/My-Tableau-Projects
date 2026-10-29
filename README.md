@@ -20,26 +20,10 @@ This repository contains interactive business intelligence dashboards and visual
 🗺️ 1. GB Employment & Industry Analytics Dashboard
 
 • Live Dashboard Link: https://public.tableau.com/app/profile/gerald.iloegbunam/vizzes
-• Overview: A comprehensive labor market diagnostic dashboard examining economic shifting across the United Kingdom. It cross-references raw industrial categories against geographic locations to display macro hiring dynamics.
+• Overview: A comprehensive labor market diagnostic dashboard examining economic shifting across the United Kingdom.
+  It cross-references raw industrial categories against geographic locations to display macro hiring dynamics.
 
 Dashboard Component Breakdown
-
-+------------------------------------------------------------------------------------+
-
-|                               GLOBAL HEALTH INSIGHTS                               |
-+----------------------------------------+-------------------------------------------+
-
-| Top 10 Industry (Bar Chart)            | Change by Industry (Diverging Bar)        |
-| - Tallies absolute workforce volumes.  | - Tracks positive vs. negative shifting.  |
-+----------------------------------------+-------------------------------------------+
-
-| Average % Change by City (Map)         | Industry Distribution (Tree Map)          |
-| - Plots regional regional change.      | - Segments workforce sizes visually.      |
-+----------------------------------------+-------------------------------------------+
-• Top 10 Industry Chart: An absolute Bar Chart isolating macro-employment distributions. It reveals Administrative and Support Service Activities as the dominant workforce anchor, scaling past 120,000 active roles.
-• Change by Industry Visualization: A sorted, dual-directional Bar Chart tracking growth metrics. It exposes contraction patterns across old manufacturing and public utility fields against major growth in service spaces.
-• Average % Change by City Map: A localized geographic coordinate visualization mapping regional shifts. It reveals distinct employment clustering, highlighting localized urban changes across the UK mainland.
-• Industries Tree Map: A nested proportional volume map displaying sector layout. It color-codes structural business distributions like Real estate activities and Human health activities for immediate layout comparison.
 
 🌍 2. Global Health & Macro Trends (Gapminder Model)
 
