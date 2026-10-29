@@ -25,15 +25,26 @@ This repository contains interactive business intelligence dashboards and visual
 • Overview: A comprehensive labor market diagnostic dashboard examining economic shifting across the United Kingdom.
   It cross-references raw industrial categories against geographic locations to display macro hiring dynamics.
 
+
+
+<img width="954" height="665" alt="Screenshot 2026-10-29 at 12 19 59" src="https://github.com/user-attachments/assets/4dc70572-d2a9-426f-961f-0ec80925c829" />
 Dashboard Component Breakdown
+• Top 10 Industry (Bar Chart): Identifies absolute growth volume. Administrative and Support Services leads with +120,169 roles, followed by Human Health (+57,578), while utility infrastructure fields contract.
+• Change by Industry (Diverging Bar Chart): Visualizes structural pivots. Highlights massive expansion in Professional, Scientific, and Technical fields (+134,655) alongside sharp declines in Public Administration (-49,538).
+• Average % Change by City (Geographic Map): Tracks localized employment metrics. Pinpoints specific geographic growth hubs across the UK mainland (e.g., regional clusters scaling up to 0.58%).
+• Industries (Treemap): Breaks down relative sector scale. Confirms Real Estate and Head Office Management hold the largest operational footprint in the current view.
 
 🌍 2. Global Health & Macro Trends (Gapminder Model)
 
 • Overview: A global health monitoring platform utilizing multi-national datasets to track continuous biometric outcomes over extensive chronological periods.
-• Life Expectancy by Continent: A sorted categorical analysis mapping macro baseline longevity metrics across universal global coordinates.
-• Life Expectancy Trend Line Chart: A multi-series, color-indexed timeline plot utilizing Top-5 parameter caps to isolate peak historical health vectors over time.
-• Population by Gender Pie Chart: A dynamic, filter-driven proportional model tracking micro-demographic splits utilizing reactive percentage calculations.
-• Life Expectancy vs. BMI Scatter Plot: A multi-axis coordinate map plotting continuous health outcomes against baseline body metrics, utilizing continent color overlays to expose geographic health discrepancies.
+<img width="763" height="618" alt="Screenshot 2026-10-29 at 12 26 10" src="https://github.com/user-attachments/assets/1173c2f5-f657-43d5-ae4b-74c22b05daf2" />
+
+Dashboard Component Breakdown
+• Life Expectancy by Continent (Bar Chart): Ranks regional baselines. Europe records the highest life expectancy (75.37 years), followed by the Americas (71.36 years), while Africa marks the lowest baseline at 55.14 years.
+• Life Expectancy Trend (Line Chart): Illustrates chronological upward scaling across the Top 5 countries (including Australia, Iceland, Japan, Sweden, and Switzerland). All tracked nations show progress from 1990 through 2005, with the leading nation climbing from 79 to over 82 years.
+• Population by Gender (Pie Chart): Segments binary gender cohorts for a selected country view, displaying absolute population distributions (654,110,338 for men vs. 688,261,226 for women).
+• Life Expectancy vs BMI (Scatter Plot): Identifies macro health correlations. It plots population data points to show a dense clustering pattern centered between 20 to 30 Avg BMI and 40 to 80 Avg Life Expectancy, color-coded dynamically by continent.
+
 
 🎵 3. Spotify Feature Distribution Analysis
 
