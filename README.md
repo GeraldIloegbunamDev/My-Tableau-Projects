@@ -20,6 +20,8 @@ This repository contains interactive business intelligence dashboards and visual
 🗺️ 1. GB Employment & Industry Analytics Dashboard
 
 • Live Dashboard Link: https://public.tableau.com/app/profile/gerald.iloegbunam/vizzes
+
+
 • Overview: A comprehensive labor market diagnostic dashboard examining economic shifting across the United Kingdom.
   It cross-references raw industrial categories against geographic locations to display macro hiring dynamics.
 
